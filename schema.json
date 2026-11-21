@@ -1,0 +1,19 @@
+{
+  "collection": "records",
+  "fields": [
+    "event",
+    "channel",
+    "work",
+    "observed_at",
+    "measure",
+    "value"
+  ],
+  "example": {
+    "event": "expo-1",
+    "channel": "展览",
+    "work": "w-01",
+    "observed_at": "2026-10-04T13:00+08:00",
+    "measure": "visits",
+    "value": 95
+  }
+}
